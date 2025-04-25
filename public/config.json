@@ -1,0 +1,157 @@
+{
+  "buttons": [
+    {
+      "name": "PhotoPrism",
+      "website": "https://photoprism.org",
+      "license": "GNU General Public License v3.0 only",
+      "description": "PhotoPrism is a server-based application for browsing, organizing and sharing your personal photo collection. It makes use of the latest technologies to automatically tag and find pictures without getting in your way. Say goodbye to solutions that force you to upload your visual memories to the cloud.",
+      "color": "#878",
+      "icon": "./assets_example/photoprism.png",
+      "href": "https://PhotoPrism.example.com"
+    },
+    {
+      "name": "AMP",
+      "website": "https://cubecoders.com/AMP",
+      "license": "Proprietary",
+      "description": "AMP is short for Application Management Panel. It's our next-generation server administration software built for both users, and service providers. It supports both Windows and Linux based servers and allows you to manage all your game servers from a single web interface.",
+      "color": "#21169c",
+      "icon": "./assets_example/amp.png",
+      "href": "https://AMP.example.com"
+    },
+    {
+      "name": "AVM Fritzbox",
+      "website": "https://avm.de",
+      "license": "GNU General Public License v2.0 only",
+      "description": "\"The\" Fritzbox, stylised as FRITZ!Box, is a series of residential gateway devices produced by the German company AVM GmbH. \r\nFRITZ!OS is the FRITZ!Box operating system and can be easily controlled via your browser. User-friendly menus, easy-to-understand wizards, and the optional advanced mode come in handy in all scenarios.",
+      "color": "#3f1717",
+      "icon": "./assets_example/avmfritzbox.png",
+      "href": "https://AVM Fritzbox.example.com"
+    },
+    {
+      "name": "AWX",
+      "website": "https://github.com/ansible/awx",
+      "license": "Apache License 2.0",
+      "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.",
+      "color": "#fff214",
+      "icon": "./assets_example/awx.svg",
+      "href": "https://AWX.example.com"
+    },
+    {
+      "name": "Ackee",
+      "website": "https://github.com/electerious/Ackee",
+      "license": "MIT License",
+      "description": "Self-hosted, Node.js based analytics tool for those who care about privacy. Ackee runs on your own server, analyzes the traffic of your websites and provides useful statistics in a minimal interface.",
+      "color": "#fafbfc",
+      "icon": "./assets_example/ackee.png",
+      "href": "https://Ackee.example.com"
+    },
+    {
+      "name": "Actual",
+      "website": "https://actualbudget.org/",
+      "license": "MIT License",
+      "description": "A local-first personal finance app",
+      "color": "#fafbfc",
+      "icon": "./assets_example/actual.png",
+      "href": "https://Actual.example.com"
+    },
+    {
+      "name": "AdGuard Home",
+      "website": "https://github.com/AdguardTeam/AdGuardHome",
+      "license": "GNU General Public License v3.0 only",
+      "description": "AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, it'll cover ALL your home devices, and you don't need any client-side software for that.\r\n\r\nIt operates as a DNS server that re-routes tracking domains to a \"black hole,\" thus preventing your devices from connecting to those servers. It's based on software we use for our public AdGuard DNS servers -- both share a lot of common code.",
+      "color": "#fafbfc",
+      "icon": "./assets_example/adguardhome.png",
+      "href": "https://AdGuard Home.example.com"
+    },
+    {
+      "name": "Adminer",
+      "website": "https://www.adminer.org",
+      "license": "Apache License 2.0",
+      "description": "Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consists of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.",
+      "color": "#fafbfc",
+      "icon": "./assets_example/adminer.svg",
+      "href": "https://Adminer.example.com"
+    },
+    {
+      "name": "AirDC++ Web Client",
+      "website": "https://github.com/airdcpp-web/airdcpp-webclient",
+      "license": "GNU General Public License v2.0 or later",
+      "description": "AirDC++ Web Client is a locally installed application, which is designed for flexible sharing of files or directories within groups of people in a local network or over internet. The daemon application can be installed on different types of systems, such as on file servers and NAS devices.",
+      "color": "#16161f",
+      "icon": "./assets_example/airdcwebclient.png",
+      "href": "https://AirDC++ Web Client.example.com"
+    },
+    {
+      "name": "Airsonic",
+      "website": "https://airsonic.github.io",
+      "license": "GNU General Public License v3.0 only",
+      "description": "Airsonic is a free, web-based media streamer, providing ubiquitious access to your music. Use it to share your music with friends, or to listen to your own music while at work.",
+      "color": "#16161f",
+      "icon": "./assets_example/airsonic.png",
+      "href": "https://Airsonic.example.com"
+    },
+    {
+      "name": "AlarmPI",
+      "website": "https://github.com/bkbilly/AlarmPI",
+      "license": "MIT License",
+      "description": "AlarmPI is a home security system based on Raspberry PI. It supports wired sensors (PIR, Magnetic etc.) and wireless through MQTT or Hikvision.",
+      "color": "#16161f",
+      "icon": "./assets_example/alarmpi.png",
+      "href": "https://AlarmPI.example.com"
+    },
+    {
+      "name": "Alertmanager",
+      "website": "https://prometheus.io/docs/alerting/alertmanager",
+      "license": "Apache License 2.0",
+      "description": "The Alertmanager handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integrations such as email, PagerDuty, or OpsGenie. It also takes care of silencing and inhibition of alerts.",
+      "color": "#fafbfc",
+      "icon": "./assets_example/alertmanager.png",
+      "href": "https://Alertmanager.example.com"
+    },
+    {
+      "name": "ArchiSteamFarm",
+      "website": "https://github.com/JustArchiNET/ArchiSteamFarm",
+      "license": "Apache License 2.0",
+      "description": "ASF is a C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.",
+      "color": "#16161f",
+      "icon": "./assets_example/archisteamfarm.png",
+      "href": "https://ArchiSteamFarm.example.com"
+    },
+    {
+      "name": "ArchiveBox",
+      "website": "https://github.com/pirate/ArchiveBox",
+      "license": "MIT License",
+      "description": "The open-source self-hosted web archive. ArchiveBox takes a list of website URLs you want to archive, and creates a local, static, browsable HTML clone of the content from those websites (it saves HTML, JS, media files, PDFs, images and more).",
+      "color": "#fafbfc",
+      "icon": "./assets_example/archivebox.png",
+      "href": "https://ArchiveBox.example.com"
+    },
+    {
+      "name": "ArchiveTeam Warrior",
+      "website": "https://www.archiveteam.org/index.php?title=ArchiveTeam_Warrior",
+      "license": "The Unlicense",
+      "description": "The Archive Team Warrior is a virtual archiving appliance. You can run it to help with the ArchiveTeam archiving efforts. It will download sites and upload them to their archive.",
+      "color": "#fafbfc",
+      "icon": "./assets_example/archiveteamwarrior.png",
+      "href": "https://ArchiveTeam Warrior.example.com"
+    },
+    {
+      "name": "Argo CD",
+      "website": "https://argoproj.github.io/cd/",
+      "license": "Apache License 2.0",
+      "description": "Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.",
+      "color": "#16161f",
+      "icon": "./assets_example/argocd.svg",
+      "href": "https://Argo CD.example.com"
+    },
+    {
+      "name": "Argus",
+      "website": "https://github.com/release-argus/Argus",
+      "license": "Apache License 2.0",
+      "description": "Argus is a #fafbfcweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.",
+      "color": "#16161f",
+      "icon": "./assets_example/argus.png",
+      "href": "https://Argus.example.com"
+    }
+  ]
+}

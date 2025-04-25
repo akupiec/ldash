@@ -1,0 +1,21 @@
+{
+  "name": "static_dashboard",
+  "module": "src/index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun build ./src/*.ts --outdir ./public --watch",
+    "build": "bun build ./src/*.ts --outdir ./public --minify"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/trianglify": "^4.1.2",
+    "prettier": "3.5.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "trianglify": "^4.1.1"
+  }
+}
