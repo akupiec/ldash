@@ -4,6 +4,8 @@ Yes, it's another self-hosted dashboard. But this one is made to be as lightweig
 
 Because of this, LDash works completely in your web browser. It doesn't need a server to run, so it comes **without** one.
 
+Here is full [demo page](https://akupiec.github.io/ldash/) ready to be copy/pasted
+
 # Quick start
 
 Copy everything from live demo inside `public` directory to your statically hosted directory :)
