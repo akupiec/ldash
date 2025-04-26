@@ -1,11 +1,11 @@
 {
-  "name": "static_dashboard",
+  "name": "ldash",
   "module": "src/index.ts",
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "bun build ./src/*.ts --outdir ./public --watch",
-    "build": "bun build ./src/*.ts --outdir ./public --minify"
+    "dev": "bun build ./src/*.ts --outdir public --watch",
+    "build": "bun build ./src/*.ts --outdir public --minify"
   },
   "devDependencies": {
     "@types/bun": "latest",

@@ -8,8 +8,6 @@ execSync(
   "git clone --depth 1 https://github.com/linuxserver/Heimdall-Apps.git tmp",
 );
 
-fs.mkdirSync("../assets_example");
-
 const stuff = fs
   .readdirSync(TMP_PATH)
   .filter(
@@ -27,7 +25,7 @@ const stuff = fs
   })
   .map((data) => {
     const fileName = path.basename(data.icon);
-    const newFilePath = path.join("../public/assets_example/", fileName);
+    const newFilePath = path.join("../public/assets/example/", fileName);
     fs.copyFileSync(data.icon, newFilePath);
     delete data.appid;
     delete data.config;
@@ -36,7 +34,7 @@ const stuff = fs
     delete data.tile_background;
     return {
       ...data,
-      icon: "./assets_example/" + fileName,
+      icon: "./assets/example/" + fileName,
       href: `https://${data.name}.example.com`,
     };
   });
